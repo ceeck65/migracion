@@ -2,3 +2,4 @@
 */vendor/symfony
 */vendor/composer
 */vendor/robmorgan/*
+phinx.yml
